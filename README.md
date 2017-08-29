@@ -1,7 +1,7 @@
 # skrá
 
 | Translations of skrá (noun) |  |
-| -------------------------------|
+| -------------------------------| -- |
 | directory | skrá, nafnalisti |
 | register | skrá |
 | list | listi, skrá |
